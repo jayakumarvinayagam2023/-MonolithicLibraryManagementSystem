@@ -1,4 +1,4 @@
-namespace Book.API;
+namespace LibraryManagement.API;
 
 public class WeatherForecast
 {
