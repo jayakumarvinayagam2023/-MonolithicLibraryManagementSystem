@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj": {}
+    "d:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj": {}
   },
   "projects": {
-    "D:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj": {
+    "d:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj",
+        "projectUniqueName": "d:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj",
         "projectName": "Book.API",
-        "projectPath": "D:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj",
+        "projectPath": "d:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\Book.API.csproj",
         "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
-        "outputPath": "D:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\obj\\",
+        "outputPath": "d:\\edureka-training\\MonolithicApplication\\-MonolithicLibraryManagementSystem\\src\\MonolithicLibraryManagementSystem\\API\\Book.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jay\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,7 +17,9 @@ public static class ServiceRegistration
 
             services.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
             services.AddScoped<IBookRepository, BookRepository>();
-             services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
+            services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IAuthorService, AuthorService>();
             return services;
         }
     }

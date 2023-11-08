@@ -39,10 +39,11 @@ dotnet tool install --global dotnet-ef
 
 dotnet ef dbcontext scaffold "Server=######; Database=edureka;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Infrastructure\Migration
 
-dotnet ef migrations add mg_dec_1_0_0
+dotnet ef migrations add mg_dec_1_0_1
 dotnet ef database update
 
-
+Book
+----
 {
   "id": 1001,
   "title": "Roger Federer The Biography",
