@@ -50,3 +50,30 @@ Book
   "rating": 8,
   "author": "Rene Stauffer"
 }
+
+Genres
+-------
+{
+    "id": 1001,
+    "Name": "Historical Fiction"
+}
+Sample:
+--------
+Action and Adventure
+Classics
+Comic Book or Graphic Novel
+Detective and Mystery
+Fantasy
+Historical Fiction
+Horror
+Literary Fiction
+Romance
+Science Fiction (Sci-Fi)
+Short Stories
+Cookbooks
+
+
+Day 2:
+https://github.com/akash-coded/spring-framework/tree/main/eclipse-projects/spring-boot/spring-boot-microservices-quoters-demo-restful-service
+https://github.com/akash-coded/spring-framework/tree/main/eclipse-projects/spring-boot/spring-boot-microservices-consuming-rest-demo-app
+https://github.com/akash-coded/spring-framework/discussions/153
